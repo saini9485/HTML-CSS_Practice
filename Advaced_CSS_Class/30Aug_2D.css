@@ -20,7 +20,7 @@ body {
   transition: 1s;
 }
 /* .main_container:hover {
-  transform: translate(0px, 300px);
+  transform: translate(350px ,0px);
 } */
 p {
   font-size: larger;
